@@ -2,7 +2,7 @@
 ```
 A d8rh8r adventure
 ```
-![The lost tribe of Mojibake](thelosttribeofmojibake.png)
+![The lost tribe of Mojibake](.\thelosttribeofmojibake.png)
 
 The thing I love about this industry is that the seemingly innocuous can lead one down a truly awe inspiring road of discovery.  This is a tale of such a journey, the specifics removed to protect the identities involved and, add a lemon twist of mystery to the proceedings..  
 
